@@ -23,7 +23,7 @@ This guide will help you set up a private note repository using Obsidian while s
    
 5. Merge the changes from the `template` remote into your local `main` branch:
 ```shell
-   git merge template/main
+   git merge --allow-unrelated-histories template/main
 ```
 
 6. Create a new branch for your private notes:
