@@ -1,0 +1,9 @@
+{
+  "accentColor": "#239c21",
+  "theme": "obsidian",
+  "cssTheme": "Shiba Inu",
+  "interfaceFontFamily": "Verdana",
+  "enabledCssSnippets": [
+    "media-print-page-breaks"
+  ]
+}

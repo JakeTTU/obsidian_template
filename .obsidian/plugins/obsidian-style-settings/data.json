@@ -1,0 +1,17 @@
+{
+  "shiba-theme-settings@@shiba-accent-style": true,
+  "shiba-theme-settings@@shiba-accent-colors": "accent-orange",
+  "shiba-theme-settings@@shiba-colors-theme-light": "default-light-theme",
+  "shiba-theme-settings@@h1-color@@light": "#333333",
+  "shiba-theme-settings@@h2-color@@light": "#0070C0",
+  "shiba-theme-settings@@h3-color@@light": "#4CAF50",
+  "shiba-theme-settings@@h4-color@@light": "#F57C00",
+  "shiba-theme-settings@@h5-color@@light": "#9C27B0",
+  "shiba-theme-settings@@h6-color@@light": "#FF5722",
+  "shiba-theme-settings@@h1-color@@dark": "#F5F5F5",
+  "shiba-theme-settings@@h2-color@@dark": "#80C7E3",
+  "shiba-theme-settings@@h3-color@@dark": "#8BE585",
+  "shiba-theme-settings@@h4-color@@dark": "#FFA867",
+  "shiba-theme-settings@@h5-color@@dark": "#D88EE5",
+  "shiba-theme-settings@@h6-color@@dark": "#FF9E9E"
+}

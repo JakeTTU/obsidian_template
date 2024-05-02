@@ -1,0 +1,15 @@
+{
+  "attachmentFolderPath": "./attach",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "readableLineLength": false,
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "004 Notes",
+  "alwaysUpdateLinks": true
+}
