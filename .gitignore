@@ -1,5 +1,8 @@
 /002 Logplan/Journal/*
+!/002 Logplan/Journal/placeholder
 /002 Logplan/Log/*
+!/002 Logplan/Log/placeholder
 /002 Logplan/Plan/*
+!/002 Logplan/Plan/placeholder
 
 /.obsidian/workspace.json
